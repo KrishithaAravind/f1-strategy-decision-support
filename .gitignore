@@ -1,0 +1,11 @@
+data/raw/*
+data/processed/*
+!data/processed/kpi_tables/
+!data/processed/kpi_tables/*.csv
+!data/raw/sample_*.csv
+
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
